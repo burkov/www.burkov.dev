@@ -1,0 +1,9 @@
+{
+  "name": "www.burkov.dev",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:burkov/www.burkov.dev.git",
+  "author": "abu",
+  "license": "MIT",
+  "private": true
+}
